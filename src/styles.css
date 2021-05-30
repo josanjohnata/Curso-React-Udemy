@@ -41,6 +41,9 @@ img {
 }
 
 .App {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: flex-start; */
   font-family: sans-serif;
   background-color: #0079bf;
   height: 100%;
