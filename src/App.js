@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <Navbar />
-      <h2>Start editing to see some magic happen!</h2>
+      <h2>Refatorar Project to do list</h2>
     </div>
   );
 }
