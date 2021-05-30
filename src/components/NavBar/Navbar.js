@@ -4,7 +4,7 @@ import "./Navbar.css";
 export default function Navbar() {
   return (
     <nav className="App">
-      <span className="navbar">LIST TO DO</span>
+      <span className="navbar">TO DO LIST</span>
     </nav>
   );
 }

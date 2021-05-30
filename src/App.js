@@ -1,12 +1,18 @@
 import React from "react";
 import "./styles.css";
+
 import Navbar from "./components/NavBar/Navbar";
+import TaskList from "./components/TaskList/TaskList";
 
 export default function App() {
   return (
     <div className="App">
       <Navbar />
-      <h2>Refatorar Project to do list</h2>
+      <div>
+        <TaskList title="Pendente" />
+        <TaskList title="Fazendo" />
+        <TaskList title="Completo" />
+      </div>
     </div>
   );
 }
