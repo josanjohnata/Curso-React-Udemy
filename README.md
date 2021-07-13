@@ -1,4 +1,5 @@
 # Curso-React-Udemy
+Nesse projeto fiz um app de TO DO LIST usando React js e trabalhei na plataforma CodeSandBox.
 Created with CodeSandbox
 
-https://p1ow9.csb.app/
+Link: https://p1ow9.csb.app/
